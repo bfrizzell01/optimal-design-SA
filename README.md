@@ -2,7 +2,7 @@
 
 Exact D-optimal designs for various linear and nonlinear models have been obtained using simulated annealing and compared to Disciplined Convex Programming (DCP) methods provided by the optimization software known as CVX. Optimal experimental designs are very useful in practice due to their flexibility in model specification and domain constraints, as well as their ability to provide experimental designs with minimized parameter variance and experimental cost. However, exact designs are difficult to find when models are nonlinear and/or have high-dimensional parameter spaces. We propose the simulated annealing algorithm as a viable alternative to obtaining optimal designs in such cases; often simulated annealing outperforms CVX or provides a good approximation of the design in significantly reduced runtime.
 
-Provided in this repository is code used for experimentation and implementation, as well as a [poster outlining results](report/bfrizzell_CSSC_poster_2024.pdf), which was presented at the Canadian Statistcs Student Conference at Memorial University, St.Johns, N.L in 2024.
+Provided in this repository is code used for experimentation and implementation, as well as a [poster outlining results](report/bfrizzell_CSSC_poster_2024.pdf), which was presented at the [Canadian Statistcs Student Conference at Memorial University, St.Johns, N.L in 2024](https://ssc.ca/en/meetings/annual/2024-ssc-annual-meeting-st-johns/twelfth-annual-canadian-statistics-student).
 
 This project was supervised by [Dr. Julie Zhou](https://www.uvic.ca/science/math-statistics/people/home/faculty/zhou_julie.php) from the University of Victoria Department of Mathematics and Statistics.
 
